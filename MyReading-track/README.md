@@ -2,7 +2,7 @@
 
 ## Overview
 
-MyReads App is a project designed for a Udacity course. This application helps users organize their books into different shelves: "Currently Reading," "Want to Read," and "Read." It provides a user-friendly interface to manage book collections and search for new books.
+MyReading App is a project designed for a Udacity course. This application helps users organize their books into different shelves: "Currently Reading," "Want to Read," and "Read." It provides a user-friendly interface to manage book collections and search for new books.
 
 ## Features
 
